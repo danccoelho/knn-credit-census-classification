@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Yellowbrick](https://img.shields.io/badge/Yellowbrick-FCC200?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0ZDMjAwMCIvPjwvc3ZnPg==&label=Yellowbrick&labelColor=black)
+![Yellowbrick](https://img.shields.io/badge/Yellowbrick-FCC200?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0ZDMjAwMCIvPjwvc3ZnPg==&label)
 
 ## 🔍 Este projeto demonstra o uso do algoritmo **K-Nearest Neighbors (KNN)** para classificação de dados em duas bases distintas: uma relacionada a crédito e outra ao censo. Utilizamos bibliotecas populares como `scikit-learn`, `pandas`, `matplotlib`, `plotly` e `yellowbrick` para processamento, modelagem e visualização.
 
