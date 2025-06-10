@@ -30,12 +30,13 @@ O projeto mostra a acurácia e métricas como precisão, recall e f1-score com u
 
                 precision   recall   f1-score   support
 
-       <=50K       0.87      0.92      0.89      3693
-        >50K       0.69      0.56      0.62      1192
-
+       <=50K        0.87      0.92     0.89      3693
+        >50K        0.69      0.56     0.62      1192
     accuracy                           0.83      4885
-   macro avg       0.78      0.74      0.76      4885
-weighted avg       0.82      0.83      0.82      4885
+    macro avg       0.78      0.74     0.76      4885  
+    weighted avg    0.82      0.83     0.82      4885
+
+---
 
 ## 📌 Funcionalidades
 
